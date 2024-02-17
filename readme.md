@@ -1,6 +1,6 @@
 # Tailwind Manage Landing Page
 
-This is the project from my 2022 Tailwind Crash Course on YouTube.
+This is the a tailwind project to learn various concept of tailwind.
 
 ![Alt text](/img/screen.png?raw=true)
 
