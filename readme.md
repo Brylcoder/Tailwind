@@ -2,7 +2,7 @@
 
 This is the a tailwind project to learn various concept of tailwind.
 
-![Alt text](/img/screen.png?)
+![Alt text](/img/screen.png)
 
 # Usage
 
